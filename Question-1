@@ -1,1 +1,2 @@
 Explain what git clone does, in your own words
+git clone is simply a shortcut for several commands. It clones a repository into a new directory without having to do all the individual commands it would normally require.
